@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3336"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="541.79999"
+   height="396.89999"
+   viewBox="0 0 541.79999 396.89999"
+   sodipodi:docname="Room Maker.svg">
+  <metadata
+     id="metadata3342">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3340" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1375"
+     inkscape:window-height="876"
+     id="namedview3338"
+     showgrid="false"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="206.34616"
+     inkscape:cy="174.60605"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4187" />
+  <g
+     id="g3587"
+     transform="translate(-27,11)" />
+  <g
+     id="g4453"
+     transform="translate(6,6)">
+    <g
+       id="g4163">
+      <g
+         id="g4187"
+         transform="translate(-14.849242,-17.677669)">
+        <g
+           id="g3580"
+           transform="translate(-31,11)">
+          <g
+             id="g3575" />
+        </g>
+        <g
+           id="g4222"
+           transform="translate(26.870058,14.142136)">
+          <path
+             inkscape:connector-curvature="0"
+             id="rect3346-2"
+             d="m 299.79647,71.180563 -4.57035,1.212778 -67.72893,0 0,298.016389 73.00435,0 0,-137.69023 33.49826,68.65921 0,1.75201 0.85547,0 0.34766,0.71443 2.69337,-0.71443 57.10388,0 0,-2.35353 2.19728,0.59763 35.301,-74.28705 0,145.31535 73.00435,0 0,-298.016384 -73.00435,0 0,0.724162 -1.69533,-0.461362 -63.80508,134.271874 -66.49651,-136.296415 0,-0.231654 -0.11328,0 -0.59179,-1.212778 z"
+             style="fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:0.99342108px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <g
+             transform="translate(-33,11)"
+             id="g4211">
+            <rect
+               style="fill:#999999"
+               id="rect3430-8"
+               width="62.0709"
+               height="17.558872"
+               x="-101.22951"
+               y="78.421539"
+               ry="8.7794361"
+               transform="matrix(0.00992597,-0.99995074,0.99946919,-0.03257809,0,0)"
+               inkscape:transform-center-x="-67.528698"
+               inkscape:transform-center-y="-11.667262" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.53042907px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 63.570057,33.819058 C 91.086691,7.9806293 109.31225,33.259078 109.31225,33.259078"
+               id="path3552"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.95579433px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 45.215637,27.592978 C 94.798593,-18.965977 127.63974,26.583935 127.63974,26.583935"
+               id="path3552-7"
+               inkscape:connector-curvature="0" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3552-79"
+               d="M 31.367537,17.476001 C 97.59918,-44.716251 141.46752,16.128147 141.46752,16.128147"
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.27672541px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          </g>
+          <path
+             transform="translate(-27,11)"
+             inkscape:connector-curvature="0"
+             id="rect3346"
+             d="m 47.998046,61.898438 0,0.002 -0.99805,0 0,69.000002 0.99805,229 0,1.00195 73.003904,0 0,-111.00195 17.16016,0 62.38281,107.99219 86.94531,1.83984 -68.64453,-118.83203 54.1543,0 0,-179.000002 -151.99805,0 0,-0.002 z m 73.003904,69.001952 57.99805,0 0,57.03906 -57.99805,-1.22851 z"
+             style="fill:#000080;fill-rule:evenodd;stroke:#000000;stroke-width:0.99506259px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             sodipodi:nodetypes="cccccccccccccccccccccc" />
+          <g
+             transform="matrix(0.4206715,0,0,0.64516129,121.3364,108.10967)"
+             id="g3532">
+            <rect
+               style="fill:#999999"
+               id="rect3428"
+               width="98"
+               height="62"
+               x="295.75"
+               y="-32.100002" />
+            <path
+               style="fill:#ffcc00"
+               d="m 300.25,-23.600002 c -2.493,0 -4.5,2.007 -4.5,4.5 0,2.493 2.007,4.5 4.5,4.5 l 58,0 c 2.493,0 4.5,-2.007 4.5,-4.5 0,-2.493 -2.007,-4.5 -4.5,-4.5 l -58,0 z m 0,12 c -2.493,0 -4.5,2.0069993 -4.5,4.4999993 0,2.493 2.007,4.5 4.5,4.5 l 35,0 c 2.493,0 4.5,-2.007 4.5,-4.5 0,-2.493 -2.007,-4.4999993 -4.5,-4.4999993 l -35,0 z m 0,11.99999932 c -2.493,0 -4.5,2.00699998 -4.5,4.49999998 0,2.493 2.007,4.5000004 4.5,4.5000004 l 35,0 c 2.493,0 4.5,-2.0070004 4.5,-4.5000004 0,-2.493 -2.007,-4.49999998 -4.5,-4.49999998 l -35,0 z m 0,12.00000068 c -2.493,0 -4.5,2.007 -4.5,4.5 0,2.493 2.007,4.5 4.5,4.5 l 58,0 c 2.493,0 4.5,-2.007 4.5,-4.5 0,-2.493 -2.007,-4.5 -4.5,-4.5 l -58,0 z"
+               id="rect3430"
+               inkscape:connector-curvature="0" />
+          </g>
+          <rect
+             transform="translate(-27,11)"
+             ry="4.5"
+             y="60.899994"
+             x="47"
+             height="71"
+             width="228"
+             id="rect3542"
+             style="fill:#000000" />
+          <g
+             id="g4434"
+             transform="matrix(1.0451345,0,0,0.95089536,-18.01714,12.164659)">
+            <g
+               id="g4156">
+              <rect
+                 style="fill:#b3b3b3;fill-opacity:1"
+                 id="rect4411"
+                 width="288"
+                 height="47"
+                 x="77.399994"
+                 y="-490.5"
+                 ry="0"
+                 transform="matrix(0,1,-1,0,0,0)"
+                 rx="0" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 x="75.769135"
+                 y="-452.35059"
+                 id="text3601"
+                 sodipodi:linespacing="125%"
+                 transform="matrix(0,1,-1,0,0,0)"><tspan
+                   sodipodi:role="line"
+                   id="tspan3603"
+                   x="75.769135"
+                   y="-452.35059"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script'"><tspan
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script';fill:#800000"
+                     id="tspan4409">Room</tspan><tspan
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script';fill:#000080"
+                     id="tspan3605"> Makers</tspan></tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
